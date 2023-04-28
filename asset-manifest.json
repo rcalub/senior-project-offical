@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/senior-project-official/static/css/main.d42d8bfe.css",
-    "main.js": "/senior-project-official/static/js/main.05495f4c.js",
-    "static/js/787.be92351c.chunk.js": "/senior-project-official/static/js/787.be92351c.chunk.js",
-    "static/media/logo-black-cropped.png": "/senior-project-official/static/media/logo-black-cropped.859fc2e47aadabcc0ec6.png",
-    "index.html": "/senior-project-official/index.html",
-    "main.d42d8bfe.css.map": "/senior-project-official/static/css/main.d42d8bfe.css.map",
-    "main.05495f4c.js.map": "/senior-project-official/static/js/main.05495f4c.js.map",
-    "787.be92351c.chunk.js.map": "/senior-project-official/static/js/787.be92351c.chunk.js.map"
+    "main.css": "/rcalub/senior-project-offical/static/css/main.e92a6299.css",
+    "main.js": "/rcalub/senior-project-offical/static/js/main.1f488a58.js",
+    "static/js/787.be92351c.chunk.js": "/rcalub/senior-project-offical/static/js/787.be92351c.chunk.js",
+    "static/media/logo-black-cropped.png": "/rcalub/senior-project-offical/static/media/logo-black-cropped.859fc2e47aadabcc0ec6.png",
+    "index.html": "/rcalub/senior-project-offical/index.html",
+    "main.e92a6299.css.map": "/rcalub/senior-project-offical/static/css/main.e92a6299.css.map",
+    "main.1f488a58.js.map": "/rcalub/senior-project-offical/static/js/main.1f488a58.js.map",
+    "787.be92351c.chunk.js.map": "/rcalub/senior-project-offical/static/js/787.be92351c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d42d8bfe.css",
-    "static/js/main.05495f4c.js"
+    "static/css/main.e92a6299.css",
+    "static/js/main.1f488a58.js"
   ]
 }
