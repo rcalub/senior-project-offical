@@ -142,3 +142,8 @@ background-color: #000;
   justify-content: center;
   color: #fff;
 }
+
+.text-footer a {
+    text-decoration: underline;
+    color: #fff;
+}

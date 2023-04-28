@@ -114,7 +114,10 @@ function App() {
             </section>
             <footer className="footer">
                 <p className="text-footer">
-                    [Insert pertinent informaiton here]
+                    <a
+                    href='https://docs.google.com/document/d/1Go4A6d8aoQrc1y19dnPY64wrd7oaPH6H5jzXCufIVj4/edit?usp=sharing'>
+                        Resources Used
+                    </a>
                 </p>
             </footer>
         </div>
